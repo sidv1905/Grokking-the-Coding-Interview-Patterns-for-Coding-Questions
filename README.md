@@ -3,7 +3,7 @@
 ## Coding Interview Patterns
 
 ### 1. Pattern: Two Pointers
-- [] Introduction
+- [x] Introduction
 2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/) [ ]
 3. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/)
 4. Squaring a Sorted Array (easy) [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
